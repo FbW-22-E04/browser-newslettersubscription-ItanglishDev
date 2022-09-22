@@ -9,12 +9,13 @@
   border-radius: 5px;
   position: relative;
   margin: 10rem auto;
-  display: none;
+  /* display: none; */
+  visibility: hidden;
 }
 
 body {
-  background-color: rgb(140, 136, 136);
-  display: none;
+  /* display: none; */
+  visibility: hidden;
 }
 
 input {
